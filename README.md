@@ -5,7 +5,7 @@
   <a href="https://loving-kepler-ae4567.netlify.app/"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
 </p>
 <h2>📁Demo</h2>
-<a href="https://loving-kepler-ae4567.netlify.app/">https://loving-kepler-ae4567.netlify.app/</a><br />
+<a href="https://loving-kepler-ae4567.netlify.app/">https://loving-kepler-ae4567.netlify.app/</a><br /> 
 <h3>🔴using with:</h3>
 <p>📌react scroll parallax</p>
 <p>📌react snow fall</p>
