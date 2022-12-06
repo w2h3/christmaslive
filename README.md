@@ -20,4 +20,3 @@
 </p>
 <p>-how to use it ⁉</p>
 <p>📤Copy this files in your Next.js app</p>
-
